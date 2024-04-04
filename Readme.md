@@ -14,3 +14,17 @@ d. Return maximum and minimum value from this tuple.
 4. Write a function that takes a sentence as input from the user and calculates the
 frequency of each letter. Use a variable of dictionary type to maintain the count.
 ---
+5. Write a function nearly equal to test whether two strings are nearly equal. two strings
+a and b are nearly equal if one character change in b results in string a.
+---
+6. Write a program to create a text file and compute the number of characters, words
+and lines in a file.
+---
+7. Program using user defined exception class that will ask the user to enter a number
+until he guesses a stored number correctly. To help them figure it out, a hint is
+provided whether their guess is greater than or less than the stored number using
+user defined exceptions.
+---
+8. Write a Pandas program to join the two given data frames along rows. Sample Data
+frame may contain details of student like rollno , name , Total Marks.
+---
