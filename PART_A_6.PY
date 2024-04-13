@@ -14,7 +14,7 @@ def counter(fname):
         print(f"NUMBER OF CHARACTERS IN TEXT FILE: {num_chars}")
     except FileNotFoundError:
         print("File not found")
-fname = "FILE_LOCATION"
+fname = "/home/shadow269/VS CODE/PYTHON_4THSEM/PART_A_6.TXT"
 #TEST THE BELOW CODE IF THE ABOVE ONE DOESN'T WORK
 #fname = r"FILE_LOCATION"  
 #PASTE THE TEXT FILE PATH INSIDE " "
