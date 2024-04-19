@@ -1,5 +1,5 @@
-#PYTHON
-##PART A
+# PYTHON
+## PART A
 1. Write a program create list with N elements. find all unique elements in the list. If
 an element is found only once in the list, then add that element to the unique list.
 ---
@@ -66,8 +66,8 @@ c. To display employee details whose salary lies within a certain range
 Previous_Reading and Current_Reading) using MySQL and perform the followings
 a. To accept the details of employees and store it in database.
 b. To Update the Customer details by Meter Number.
-c. Calculate Bill of Particular Customer using below criteria.
-    Tariff Code   Units Consumed    Rate/Unit
+c. Calculate Bill of Particular Customer using below criteria.<br>
+<pre>    <b>Tariff Code   Units Consumed    Rate/Unit</b>b>
     LT1           0-30              2.0
                   31-100            3.5
                   101-200           4.5
@@ -77,16 +77,18 @@ c. Calculate Bill of Particular Customer using below criteria.
                   31-100            5.0
                   101-200           6.0
                   Above 200         7.5
+</pre>
 ---
 8. Consider following data and draw the bar graph using matplot library.(Use CSV or
 Excel).Add the data Using GUI.
-
-Batsman         2017 2018 2019 2020
+<pre> 
+<b>Batsman         2017 2018 2019 2020</b>
 Virat Kohli     2501 1855 2203 1223
 Steve Smith     2340 2250 2003 1153
 Babar Azam      1750 2147 1896 1008
 Rohit Sharma    1463 1985 1854 1638
 Kane Williamson 1256 1785 1874 1974
 Jos Butler      1125 1853 1769 1436
-Display appropriate title for axis and chart. Also show legends.
+</pre>
+<p>Display appropriate title for axis and chart. Also show legends.</p>
 ---
