@@ -1,3 +1,5 @@
+#PYTHON
+##PART A
 1. Write a program create list with N elements. find all unique elements in the list. If
 an element is found only once in the list, then add that element to the unique list.
 ---
@@ -27,4 +29,64 @@ user defined exceptions.
 ---
 8. Write a Pandas program to join the two given data frames along rows. Sample Data
 frame may contain details of student like rollno , name , Total Marks.
+---
+## PART B
+1. Program to create a class Employee with empno, name, depname, designation, age
+and salary and perform the following function.
+i) Accept details of N employees
+ii) Search given employee using empno
+iii) Display employee details in neat format.
+---
+2. Write a program menu driven to create a BankAccount class. class should support
+the following methods for i) Deposit ii) Withdraw iii) GetBalanace . Create a
+subclass SavingsAccount class that behaves just like a BankAccount, but also has
+an interest rate and a method that increases the balance by the appropriate amount
+of interest.
+---
+3. Create a GUI to input Principal amount, rate of interest and number of years,
+Calculate Compound interest. When button submit is pressed Compound interest
+should be displayed in a textbox. When clear button is pressed all contents should
+be cleared.
+---
+4. Write a GUI program to implement Simple Calculator
+---
+5. Create a table student table (regno, name and marks in 3 subjects) using MySQL and
+perform the followings
+a. To accept the details of students and store it in database.
+b. To display the details of all the students
+c. Delete particular student record using regno.
+---
+6. Create a table employee (empno, name and salary) using MySQL and perform the
+followings
+a. To accept the details of employees and store it in database.
+b. To display the details of a specific employee
+c. To display employee details whose salary lies within a certain range
+---
+7. Create a table electricity_bill(TariffCode, Customer_Name, Meter Number,
+Previous_Reading and Current_Reading) using MySQL and perform the followings
+a. To accept the details of employees and store it in database.
+b. To Update the Customer details by Meter Number.
+c. Calculate Bill of Particular Customer using below criteria.
+    Tariff Code   Units Consumed    Rate/Unit
+    LT1           0-30              2.0
+                  31-100            3.5
+                  101-200           4.5
+                  Above 200         5.0
+
+    LT2           0-30              3.5
+                  31-100            5.0
+                  101-200           6.0
+                  Above 200         7.5
+---
+8. Consider following data and draw the bar graph using matplot library.(Use CSV or
+Excel).Add the data Using GUI.
+
+Batsman         2017 2018 2019 2020
+Virat Kohli     2501 1855 2203 1223
+Steve Smith     2340 2250 2003 1153
+Babar Azam      1750 2147 1896 1008
+Rohit Sharma    1463 1985 1854 1638
+Kane Williamson 1256 1785 1874 1974
+Jos Butler      1125 1853 1769 1436
+Display appropriate title for axis and chart. Also show legends.
 ---
