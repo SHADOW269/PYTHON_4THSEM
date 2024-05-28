@@ -21,7 +21,7 @@ def counter(fname):
     print("Number of characters in text file:", num_charc)
     print("Number of spaces in text file:", num_spaces)
 
-fname = input("File Location: ")
+fname = input("File Location / Path: ")
 try:
     counter(fname)
 except FileNotFoundError:
