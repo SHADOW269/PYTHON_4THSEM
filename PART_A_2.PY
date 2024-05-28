@@ -14,7 +14,7 @@ def circle():
 def triangle():
    base=int (input("Enter the Base: "))
    height=int (input("Enter the Height: "))
-   area=0.5*height*height
+   area=0.5*height*base
    print(f"area of triangle is {area} square unite")
 while True:
    print("Menu/n")
